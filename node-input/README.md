@@ -1,7 +1,7 @@
-# [object Object]
-   ![license:undefined](https://img.shields.io/badge/license-undefined-blue)
+# b
+   ![license:MIT](https://img.shields.io/badge/license-MIT-blue)
   ## Description
-  undefined
+  b
   ## Table of Contents
   
   - [Installation](#installation)
@@ -10,19 +10,19 @@
   - [License](#license)
   
   ## Installation
-  undefined
+  b
   ## Usage
-  undefined
+  b
   ## Credits
-  undefined
+  b
   ## License
-  [license:undefined](https://opensource.org/licenses/undefined/)
+  [license:MIT](https://opensource.org/licenses/MIT/)
   ## Features
-  undefined
+  b
   ## How to Contribute
-  undefined
+  b
   ## Tests
-  undefined
+  b
   ## Contact
-  github: [undefined](https://github.com/undefined)
-  email: undefined
+  github: [b](https://github.com/b)
+  email: b
