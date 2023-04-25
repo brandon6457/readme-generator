@@ -31,6 +31,9 @@ function generateMarkdown({title, description, installation, usage, credits, lic
   ${installation}
   ## Usage
   ${usage}
+
+[alt text](/assets/images/README-video)
+
   ## Credits
   ${credits}
   ## License
