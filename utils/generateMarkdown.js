@@ -32,7 +32,7 @@ function generateMarkdown({title, description, installation, usage, credits, lic
   ## Usage
   ${usage}
 
-[alt text](/assets/images/README-video)
+[Link to video](/assets/images/README-video)
 
   ## Credits
   ${credits}

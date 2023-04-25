@@ -14,7 +14,7 @@
   ## Usage
     It is always important to be as professional as possible, and this application will help create a professional README file for you.
 
-[alt text](/assets/images/README-video)
+[link to video](/assets/images/README-video)
 
   ## Credits
     I had assistance from classmates, instructors, and Google on this project.
